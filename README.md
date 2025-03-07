@@ -8,7 +8,7 @@
 ## 📚 学习目录
 
 ### 基础篇
-- [变量与数据类型](/basics/01_variables.py)
+- [变量与数据类型](https://github.com/888yilu888/-python/blob/main/basics%20/01_variables.py)
 - [控制流与函数](/basics/02_control_flow.py)
 - [文件操作](/basics/03_file_operations.py)
 
